@@ -1,3 +1,7 @@
 :root {
 	color-scheme: dark;
 }
+
+body, button {
+	font-size: x-large;
+}
