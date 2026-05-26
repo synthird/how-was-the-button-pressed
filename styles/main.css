@@ -21,3 +21,7 @@ a {
 a:hover {
 	text-decoration: underline;
 }
+
+a:visited {
+	color: rgb(238, 151, 162);
+}
