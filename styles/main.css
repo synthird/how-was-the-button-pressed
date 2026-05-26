@@ -5,3 +5,12 @@
 body, button {
 	font-size: x-large;
 }
+
+main, header {
+	position: relative;
+	top: 8.5em;
+}
+
+body {
+	text-align: center;
+}
