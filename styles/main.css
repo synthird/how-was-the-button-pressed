@@ -14,5 +14,10 @@ body {
 }
 
 a {
-	color: rgb(152, 134, 219);
+	color: rgb(172, 157, 230);
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
 }
